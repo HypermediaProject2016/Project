@@ -273,6 +273,17 @@ a
 	margin-right:10px;
 }
 
+.floatrightbottone
+{
+	float:right;
+}
+
+.floatleftbottone
+{
+	float:left;
+	margin-left:10px;
+}
+
 .checksubtitle
 {
 	margin-bottom:5px;
@@ -423,8 +434,6 @@ a
 	font-size:24px;
 	margin-bottom:15px;
 	text-align:center;
-	float:left;
-	margin-left:400px;
 }
 
 .bigtitlefloat2
@@ -1005,7 +1014,7 @@ a
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:175px;
+	width:200px;
 	height:27px;
 	margin: 0px 20px 0px auto;
 	padding-top:8px;
