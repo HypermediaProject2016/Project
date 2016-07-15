@@ -29,7 +29,7 @@ $(document).ready(function()
       //imposto il tipo di invio dati (GET O POST)
       type: "GET",
       //Dove devo inviare i dati recuperati dal form?
-      url: "dbscripttablet.php",
+      url: "http://www.hypermediaproject2016.altervista.org/dbscripttablet.php",
       //Quali dati devo inviare?
       data: "ID=" + QueryString.id,
       dataType: "json",
@@ -45,6 +45,8 @@ $(document).ready(function()
 	    $("#memory").html(data.memory);
 	    $("#processor").html(data.processor);
 	    $("#sim").html(data.sim);
+		$("#prev").html(data.prev);
+		$("#next").html(data.next);
 	    $("#price").html(data.price+" €");
 	    $("#services").html(data.services);
 	    $("#assistance").html(data.assistance);
