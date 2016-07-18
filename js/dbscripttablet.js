@@ -41,7 +41,7 @@ $(document).ready(function () {
       //Dove devo inviare i dati recuperati dal form?
       crossDomain: true,
 	  cache: false,
-      url: "dbscripttablet.php",
+      url: "http://www.hypermediaproject2016.altervista.org/dbscripttablet.php",
 	  //Quali dati devo inviare?
       data: "ID=" + QueryString.id,
       }).done(function(data) {
