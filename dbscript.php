@@ -21,6 +21,7 @@
 	$sqlquery = "SELECT * FROM $table WHERE ID = '".$id."'";
 	$result = mysql_query($sqlquery);
 	$number = mysql_num_rows($result);
+		//echo "Dispositivo $i:";
 			
 	$i = 0;
 	
