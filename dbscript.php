@@ -12,8 +12,8 @@
 	$table = "smartphone";
 	
 	/* Connettiamoci al database */
-	mysql_connect($DBhost,$DBuser,$DBpass) or die("Impossibile collegarsi al server");
-	mysql_select_db("$DBName") or die("Impossibile connettersi al database $DBName");
+	$con=mysql_connect($DBhost,$DBuser,$DBpass) or die("Impossibile collegarsi al server");
+	mysql_select_db($DBName, $con) or die("Impossibile connettersi al database $DBName");
 	
 	//prendo l'id che ho ricevuto da uno dei 3 bottoni.
 	$id = $_GET['ID']; 
@@ -21,7 +21,6 @@
 	$sqlquery = "SELECT * FROM $table WHERE ID = '".$id."'";
 	$result = mysql_query($sqlquery);
 	$number = mysql_num_rows($result);
-		//echo "Dispositivo $i:";
 			
 	$i = 0;
 	
@@ -44,6 +43,8 @@
 	$smartphone["price"] = mysql_result($result,$i,"price");
 		
 	$dispositivo = json_encode($smartphone);
+	
+	mysql_close($con);
 		
 	echo $dispositivo;
     				
