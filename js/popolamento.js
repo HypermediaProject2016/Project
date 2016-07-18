@@ -33,6 +33,7 @@ $(document).ready(function () {
 	  dataType: "json",
       //Dove devo inviare i dati recuperati dal form?
       crossDomain: true,
+	  cache: false,
 	  url: "dbscript.php",
       //Quali dati devo inviare?
       data: "ID=" + QueryString.id,
