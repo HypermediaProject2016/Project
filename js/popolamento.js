@@ -23,37 +23,38 @@ $(document).ready(function()
   return query_string;
 }();
 
-
+$(document).ready(function () {
     $.ajax(
     {
       //imposto il tipo di invio dati (GET O POST)
       type: "GET",
       //Dove devo inviare i dati recuperati dal form?
-      url: "dbscript.php",
+      crossDomain: true,
+	  url: "http://hypermediaproject2016.altervista.org/dbscript.php",
       //Quali dati devo inviare?
       data: "ID=" + QueryString.id,
       dataType: "json",
-    }).done(function(data) {
-    	$("#img").html(data.img);
-	    $("#brand").html(data.brand);
-	    $("#name").html(data.name);
-	    $("#name2").html(data.name);
-	    $("#tecnology").html(data.tecnology);
-	    $("#connection").html(data.connection);
-	    $("#display").html(data.display);
-	    $("#photocamera").html(data.photocamera);
-	    $("#memory").html(data.memory);
-	    $("#processor").html(data.processor);
-	    $("#sim").html(data.sim);
-		$("#prev").html(data.prev);
-		$("#next").html(data.next);
-	    $("#price").html(data.price+" €");
-	    $("#services").html(data.services);
-	    $("#assistance").html(data.assistance);
-	    $("#promotions").html(data.promotions);
+      }).done(function(data) {
+    	  $("#img").html(data.img);
+	      $("#brand").html(data.brand);
+	      $("#name").html(data.name);
+	      $("#name2").html(data.name);
+	      $("#tecnology").html(data.tecnology);
+ 	  	  $("#connection").html(data.connection);
+	      $("#display").html(data.display);
+	      $("#photocamera").html(data.photocamera);
+	      $("#memory").html(data.memory);
+          $("#processor").html(data.processor);
+	      $("#sim").html(data.sim);
+	  	  $("#prev").html(data.prev);
+	  	  $("#next").html(data.next);
+	      $("#price").html(data.price+" €");
+	      $("#services").html(data.services);
+	      $("#assistance").html(data.assistance);
+	      $("#promotions").html(data.promotions);
 	  })
 	  .fail(function() {
-    alert( "error" + QueryString.id );
- 	 })
-;
+      alert( "error" + QueryString.id );
+ 	  });
+	});
 });

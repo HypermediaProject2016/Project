@@ -30,6 +30,7 @@ $(document).ready(function()
       type: "GET",
       //Dove devo inviare i dati recuperati dal form?
       url: "dbscripttablet.php",
+	  crossDomain: true,
       //Quali dati devo inviare?
       data: "ID=" + QueryString.id,
       dataType: "json",
