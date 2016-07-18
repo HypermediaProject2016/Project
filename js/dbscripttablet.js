@@ -1,3 +1,9 @@
+$(document).bind("mobileinit", function () { 
+	'use strict';
+	$.support.cors = true; 
+	$.mobile.allowCrossDomainPages = true;
+});
+
 $(document).ready(function() 
 {
 	"use strict";
@@ -25,16 +31,18 @@ $(document).ready(function()
 }();
 
 
+$(document).ready(function () {
     $.ajax(
     {
-      //imposto il tipo di invio dati (GET O POST)
+     //imposto il tipo di invio dati (GET O POST)
       type: "GET",
+	  dataType: "json",
       //Dove devo inviare i dati recuperati dal form?
+      crossDomain: true,
+	  cache: false,
       url: "dbscripttablet.php",
-	  crossDomain: true,
-      //Quali dati devo inviare?
+	  //Quali dati devo inviare?
       data: "ID=" + QueryString.id,
-      dataType: "json",
     }).done(function(data) {
     	$("#img").html(data.img);
 	    $("#brand").html(data.brand);
@@ -56,6 +64,6 @@ $(document).ready(function()
 	  })
 	  .fail(function() {
     alert( "error" + QueryString.id );
- 	 })
-;
+ 	 });
+	});
 });
