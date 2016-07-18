@@ -13,7 +13,7 @@
 	
 	/* Connettiamoci al database */
 	$con=mysql_connect($DBhost,$DBuser,$DBpass) or die("Impossibile collegarsi al server");
-	mysql_select_db("$DBName") or die("Impossibile connettersi al database $DBName");
+	mysql_select_db($DBName, $con) or die("Impossibile connettersi al database $DBName");
 	
 	//prendo l'id che ho ricevuto da uno dei 3 bottoni.
 	$id = $_GET['ID']; 
