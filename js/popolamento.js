@@ -1,3 +1,10 @@
+$(document).bind("mobileinit", function () { 
+	'use strict';
+	$.support.cors = true; 
+	$.mobile.allowCrossDomainPages = true;
+});
+
+
 $(document).ready(function() 
 {
 	"use strict";
