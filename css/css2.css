@@ -29,23 +29,23 @@ a
 }
 
 .logo{
-	width:100px;
-	height:60px;
+	width:71px;
+	height:43px;
 }
 
 .generaltext
 {
-	font-size:14.5px;	
+	font-size:12.5px;	
 }
 
 #containerlogo
 {
 	float:left;
-	height:60px;
+	height:43px;
 }
 
 #content{
-	width:921px;
+	width:658px;
 	padding-left:1%;
 	padding-right:1%;
 	padding-top:1%;
@@ -53,7 +53,7 @@ a
 	background-color:#FFFEFF;
 	text-align:left;
 	align-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
     margin: 0px auto;
 	overflow:hidden;
 }
@@ -66,13 +66,13 @@ a
 .homecontainer
 {
 	margin:0px auto;
-	width:796px;
+	width:568px;
 }
 
 #percorso
 {
-	font-size:11px;
-	margin-bottom: 20px;
+	font-size:10px;
+	margin-bottom: 14px;
 }
 
 #percorso a
@@ -88,11 +88,11 @@ a
 
 #devicespromotions
 {
-	width:360px;
+	width:257px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
@@ -100,37 +100,37 @@ a
 
 #servicespromotions
 {
-	width:360px;
+	width:257px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
-	margin-left:40px;
+	margin-left:17px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #promoscontainer
 {
-	margin: 0 auto;
-	width: 783px;
+	margin: 0px auto;
+	width: 559px;
 }
 
 #timnextsmartcontainer
 {
-	margin: 0 auto;
-	width: 843px;
+	margin: 0px auto;
+	width: 602px;
 }
 
 #timnext
 {
-	width:170px;
-	height: 323px;
+	width:121px;
+	height: 230px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
@@ -138,39 +138,39 @@ a
 
 #timsmart
 {
-	width:170px;
-	height: 323px;
+	width:121px;
+	height: 230px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
-	margin-left:15px;
+	margin-left:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #timsmart2
 {
-	width:170px;
-	height: 333px;
+	width:121px;
+	height: 237px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
-	margin-left:15px;
+	margin-left:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #timnextpage
 {
-	height: 321px;
+	height: 229px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
@@ -178,12 +178,12 @@ a
 
 #chromecast
 {
-	width:170px;
-	height: 333px;
+	width:121px;
+	height: 237px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
@@ -191,68 +191,68 @@ a
 
 #gfree
 {
-	width:360px;
-	height:144px;
+	width:257px;
+	height:103px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
 	float:left;
-	margin-left:15px;
+	margin-left:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #ricaricaonline
 {
-	width:360px;
-	height:144px;
+	width:257px;
+	height:103px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
 	float:left;
-	margin-left:15px;
-	margin-top:15px;
+	margin-left:10px;
+	margin-top:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #timsmartfibra
 {
-	width:360px;
-	height:149px;
+	width:257px;
+	height:107px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
 	float:left;
-	margin-left:15px;
+	margin-left:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #timsky
 {
-	width:360px;
-	height:149px;
+	width:257px;
+	height:107px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
 	float:left;
-	margin-left:15px;;
-	margin-top:15px;
+	margin-left:10px;
+	margin-top:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
 
 #availability
 {
-	width:180px;
-	height: 321px;
+	width:128px;
+	height: 229px;
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	float:left;
-	margin-left:15px;
+	margin-left:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 }
@@ -260,21 +260,21 @@ a
 #check
 {
 	background-color:#f3faff;
-	width:195px;
+	width:139px;
 	float:left;
 	margin-right:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:420px;
 	text-align:left;
 }
 
 .allineaform
 {
-	margin-top:15px;
-	margin-left:10px;
-	margin-right:10px;
+	margin-top:7px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .floatrightbottone
@@ -285,110 +285,111 @@ a
 .floatleftbottone
 {
 	float:left;
-	margin-left:10px;
+	margin-left:7px;
 }
 
 .checksubtitle
 {
 	margin-bottom:5px;
-	margin-top:10px;
+	margin-top:7px;
 }
 
 .checkboxtext
 {
-	font-size:13px;
-	margin-left:10px;
+	font-size:10.5px;
+	margin-left:7px;
 }
 
 .smartphonecontent
 {
 	background-color:#f3faff;
-	width:195px;
+	width:152px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 	text-align:center;
 }
 
 .smartphonecontentnomargin
 {
 	background-color:#f3faff;
-	width:195px;
+	width:145px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 	text-align:center;
 }
 
 .smartphonesimg
 {
-	margin-top:30px;
-	width:170px;
-	height:223px;
+	margin-top:21px;
+	width:121px;
+	height:159px;
 }
 
 .smartphonetitle
 {
-	width:193px;
+	width:137px;
 	font-weight:bold;
-	font-size:18px;
+	font-size:13.5px;
 	text-align:center;
 	margin-top:20px;
+	margin-left:5px;
 	color:#134A9A;
 }
 
 .tabletcontent
 {
 	background-color:#f3faff;
-	width:210px;
+	width:150px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 	text-align:center;
 }
 
 .tabletcontentnomargin
 {
 	background-color:#f3faff;
-	width:210px;
+	width:150px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 	text-align:center;
 }
 
 .tabletimg
 {
-	margin-top:30px;
-	width:170px;
-	height:223px;
+	margin-top:21px;
+	width:121px;
+	height:159px;
 }
 
 .tablettitle
 {
-	width:208px;
+	width:148px;
 	font-weight:bold;
-	font-size:18px;
+	font-size:15px;
 	text-align:center;
-	margin-top:20px;
+	margin-top:14px;
 	color:#134A9A;
 }
 
 .availabilityimg
 {
-	width:50px;
-	height:66px;
-	margin-top:35px;
+	width:35px;
+	height:47px;
+	margin-top:25px;
 	margin-bottom:5px;
 }
 
@@ -410,8 +411,8 @@ a
 .middletitle
 {
 	font-weight:bold;
-	font-size:18px;
-	padding:5px;
+	font-size:15px;
+	padding:4px;
 	text-align:center;
 	color:#134A9A;
 }
@@ -419,7 +420,7 @@ a
 .middletitle2
 {
 	font-weight:bold;
-	font-size:18px;
+	font-size:15px;
 	text-align:left;
 	color:#134A9A;
 }
@@ -427,139 +428,140 @@ a
 .bigtitle
 {
 	font-weight:bold;
-	font-size:24px;
-	margin-bottom:15px;
+	font-size:19px;
+	margin-bottom:10px;
 	text-align:center;
 }
 
 .bigtitlefloat
 {
 	font-weight:bold;
-	font-size:24px;
-	margin-bottom:15px;
+	font-size:20px;
+	margin-bottom:10px;
 	text-align:center;
 }
 
 .bigtitlefloat2
 {
 	font-weight:bold;
-	font-size:24px;
-	margin-bottom:15px;
+	font-size:20px;
+	margin-bottom:10px;
 	text-align:center;
 	float:left;
-	margin-left:235px;
+	margin-left:167px;
 }
 
 .bigtitlefloat3
 {
 	font-weight:bold;
-	font-size:24px;
-	margin-bottom:15px;
+	font-size:20px;
+	margin-bottom:10px;
 	text-align:center;
 	float:left;
-	margin-left:215px;
+	margin-left:153px;
 }
 
 .timnext
 {
-	width:340px;
-	height:170px;	
+	width:242px;
+	height:122px;	
 	margin:0px;
 }
 
 .timnextimg
 {
-	width:114px;
-	height:150px;
+	width:81px;
+	height:107px;
 	margin-top:5px;
 	margin-bottom:5px;
 }
 
 .chromecastimg
 {
-	width:114px;
-	height:150px;
+	width:81px;
+	height:107px;
 	margin-top:5px;
 	margin-bottom:5px;
 }
 
 .gfreeimg
 {
-	width:360px;
-	height:144px;
+	width:257px;
+	height:103px;
 	margin:0px;
 }
 .smartfibraimg
 {
-	width:360px;
-	height:149px;
+	width:257px;
+	height:106px;
 	margin:0px;
 }
 
 .timskyimg
 {
-	width:360px;
-	height:149px;
+	width:257px;
+	height:106px;
 	margin:0px;
 }
 
 .ricaricaonlineimg
 {
-	width:360px;
-	height:144px;
+	width:257px;
+	height:103px;
 	margin:0px;
 }
 
 .timsmartimg
 {
-	width:150px;
-	height:150px;
+	width:107px;
+	height:107px;
 	margin-top:5px;
 	margin-bottom:5px;
 }
 
 .timyoung
 {
-	width:340px;
-	height:138px;
+	width:242px;
+	height:99px;
 	margin:0px;
 }
 
 .timnextpageimg
 {
 	margin-top:12px;
-	width:170px;
-	height:224px;
+	width:121px;
+	height:160px;
 	float:left;
 }
 .timnextpageimg2
 {
 	margin-top:12px;
-	width:170px;
-	height:224px;
+	width:121px;
+	height:160px;
 	float:right;
 }
 
 .timsmartpageimg
 {
 	margin-top:12px;
-	width:170px;
-	height:240px;
+	width:121px;
+	height:171px;
 	float:left;
 	vertical-align:middle;
 }
 
 .g5ppptext
 {
-	margin-top:15px;
+	font-size:11.5px;
+	margin-top:10px;
 	text-align:justify;
 }
 
 .appsimage
 {
-	width:66px;
-	height:66px;
-	margin-top:35px;
+	width:47px;
+	height:47px;
+	margin-top:25px;
 	margin-bottom:5px;
 }
 
@@ -567,115 +569,119 @@ a
 {
 	margin-top:5px;
 	margin-bottom:10px;
-	width:250px;
+	width:178px;
 	float:left;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 7px;
+	margin-right: 7px;
 }
 
 .timsmartpagetext
 {
 	margin-top:5px;
 	margin-bottom:10px;
-	width:420px;
+	width:300px;
 	float:right;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 7px;
+	margin-right: 7px;
 }
 
 .g5pppimg
 {
 	float:left;
-	width:350px;
-	height:108px;
-	margin-right:10px;
+	width:250px;
+	height:77px;
+	margin-right:7px;
 }
 
 .illegaldownload
 {
-	margin-top:35px;
+	font-size:11.5px;
+	margin-top:25px;
 	text-align:justify;
 }
 
 .illegaldownloadimg
 {
 	float:right;
-	width:350px;
-	height:175px;
-	margin-left:10px;
+	width:250px;
+	height:125px;
+	margin-left:7px;
 	margin-top:15px;
 }
 
 .progress
 {
-	margin-top:42px;
+	font-size:11.5px;
+	margin-top:30px;
 	text-align:justify;
 }
 
 .progressimg
 {
 	float:left;
-	width:350px;
-	height:197px;
+	width:250px;
+	height:141px;
 	vertical-align:middle;
-	margin-right:10px;
+	margin-right:7px;
 }
 
 .dislessia
 {
-	margin-top:15px;
+	font-size:11.5px;
+	margin-top:10px;
 	text-align:justify;
 }
 
 .dislessiaimg
 {
 	float:right;
-	width:450px;
-	height:139px;
+	width:321px;
+	height:99px;
 	vertical-align:middle;
-	margin-left:10px;
+	margin-left:7px;
 	margin-top:35px;
 }
 
 
 .bigdata
 {
-	margin-top:63px;
+	font-size:11.5px;
+	margin-top:45px;
 	text-align:justify;
 }
 
 .bigdataimg
 {
 	float:left;
-	width:350px;
-	height:183px;
-	margin-right:10px;
+	width:250px;
+	height:131px;
+	margin-right:7px;
 	margin-top:15px;
 }
 
 .videocontainer
 {
 	background-color:#f0f0f0;
-	width:292px;
+	width:208px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 	text-align:center;
 }
 
 .videocontainermiddle
 {
 	background-color:#DFF3FF;
-	width:292px;
+	width:208px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 	text-align:center;
 }
 
@@ -683,146 +689,148 @@ a
 {
 	background-color:#f3faff;
 	text-align:center;
-	width:292px;
+	width:208px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:430px;
+	height:307px;
 }
 
 .classvideo
 {
-	width:280px;
-	height:158px;
+	width:200px;
+	height:112px;
 }
 
 .testimonialstitle
 {
-	width:290px;
+	width:207px;
 	font-weight:bold;
-	font-size:18px;
+	font-size:15px;
 	text-align:center;
 	margin-top:10px;
 }
 
 .testimonialstext
 {
-	width:276px;
+	font-size:11.5px;
+	width:197px;
 	text-align:center;
-	margin-top:15px;
-	margin-left:7px;
+	margin-top:5px;
+	margin-left:5px;
 }
 
 .devicescontainer
 {
 	background-color:#f3faff;
-	width:195px;
+	width:136px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:280px;
+	padding-top:5px;
+	height:200px;
 	text-align:center;
 }
 
 .devicescontainernomargin
 {
 	background-color:#f3faff;
-	width:195px;
+	width:136px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:280px;
+	padding-top:5px;
+	height:200px;
 	text-align:center;
 }
 
 .devicesimg80
 {
-	width:80px;
-	height:60px;
-	margin-top:15px;
+	width:57px;
+	height:42px;
+	margin-top:10px;
 }
 
 .devicesimg60
 {
-	width:60px;
-	height:60px;
-	margin-top:15px;
+	width:42px;
+	height:42px;
+	margin-top:10px;
 }
 
 .supportconfigimg
 {
-	width:90px;
-	height:90px;
-	margin-top:15px;
+	width:64px;
+	height:64px;
+	margin-top:10px;
 }
 
 .devicestitle
 {
-	width:193px;
+	width:137px;
 	font-weight:bold;
-	font-size:18px;
+	font-size:14px;
 	text-align:center;
-	margin-top:10px;
+	margin-top:5px;
 	color:#134A9A;
 }
 
 .devicestext
 {
-	width:185px;
+	font-size:11.5px;
+	width:132px;
 	text-align:center;
-	margin-top:15px;
-	margin-left:5px;
+	margin-top:5px;
+	margin-left:3px;
 	color:#134A9A;
 }
 
 .servicescontainer
 {
 	background-color:#f3faff;
-	width:195px;
+	width:139px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:280px;
+	padding-top:10px;
+	height:200px;
 	text-align:center;
 }
 
 .servicescontainernomargin
 {
 	background-color:#f3faff;
-	width:195px;
+	width:139px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:280px;
+	padding-top:10px;
+	height:200px;
 	text-align:center;
 }
 
 .servicesimg80
 {
-	width:80px;
-	height:60px;
-	margin-top:15px;
+	width:57px;
+	height:42px;
+	margin-top:10px;
 }
 
 .servicesimg60
 {
-	width:60px;
-	height:60px;
-	margin-top:15px;
+	width:42px;
+	height:42px;
+	margin-top:10px;
 }
 
 .servicestitle
 {
-	width:193px;
+	width:137px;
 	font-weight:bold;
-	font-size:18px;
+	font-size:15px;
 	text-align:center;
 	margin-top:10px;
 	color:#134A9A;
@@ -830,57 +838,57 @@ a
 
 .servicestext
 {
-	width:185px;
+	width:132px;
 	text-align:center;
-	margin-top:15px;
-	margin-left:5px;
+	margin-top:10px;
+	margin-left:3px;
 	color:#134A9A;
 }
 
 .assistancecontainer
 {
 	background-color:#f3faff;
-	width:160px;
+	width:114px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
 	padding-top:15px;
-	height:280px;
+	height:200px;
 	text-align:center;
 }
 
 .assistancecontainernomargin
 {
 	background-color:#f3faff;
-	width:160px;
+	width:114px;
 	float:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:280px;
+	padding-top:10px;
+	height:200px;
 	text-align:center;
 }
 
 .assistanceimg80
 {
-	width:80px;
-	height:60px;
-	margin-top:15px;
+	width:57px;
+	height:42px;
+	margin-top:10px;
 }
 
 .assistanceimg60
 {
-	width:60px;
-	height:60px;
-	margin-top:15px;
+	width:42px;
+	height:42px;
+	margin-top:10px;
 }
 
 .assistancetitle
 {
-	width:160px;
+	width:114px;
 	font-weight:bold;
-	font-size:17px;
+	font-size:14.5px;
 	text-align:center;
 	margin-top:10px;
 	color:#134A9A;
@@ -888,11 +896,11 @@ a
 
 .assistancetext
 {
-	width:150px;
+	width:107px;
 	text-align:center;
 	margin-top:15px;
-	margin-left:5px;
-	font-size:15px;
+	margin-left:3px;
+	font-size:12px;
 	color:#134A9A;
 }
 
@@ -905,19 +913,19 @@ a
 .generalcontainer
 {
 	margin:0px auto;
-	width:818px;
+	width:584px;
 }
 
 .generalcontainer2
 {
 	margin:0px auto;
-	width:850px;
+	width:607px;
 }
 
 .generalcontainer3
 {
 	margin:0px auto;
-	width:681px;
+	width:486px;
 }
 
 .bordercontent1
@@ -925,10 +933,10 @@ a
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	height:130px;
+	height:125px;
 }
 
 .bordercontent2
@@ -936,28 +944,28 @@ a
 	background-color:#f3faff;
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
+	font-size:12.5px;
 	border-radius:5px;
 	margin-top:20px;
 	border: 1px solid #BAC1C2;
-	height:137px;
+	height:125px;
 }
 
 .timvisioncontent
 {
 	padding:1%;
 	text-align:center;
-	font-size:14.5px;
-	margin-top:30px;
+	font-size:12.5px;
+	margin-top:21px;
 }
 
 .moreinfobutton
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:80px;
-	height:27px;
-	margin: 10px auto 0px auto;
+	width:65px;
+	height:20px;
+	margin: 6px auto 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
@@ -972,12 +980,13 @@ a
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:80px;
-	height:27px;
-	margin: 30px auto 0px auto;
+	width:70px;
+	height:20px;
+	margin: 21px auto 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
+	font-size:11.5px;
 }
 
 .moreinfobutton2:hover
@@ -989,9 +998,9 @@ a
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:145px;
-	height:27px;
-	margin: 0px 20px 0px auto;
+	width:103px;
+	height:20px;
+	margin: 0px 14px 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
@@ -1007,9 +1016,9 @@ a
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:145px;
-	height:27px;
-	margin: 0px 0px 0px 20px;
+	width:103px;
+	height:20px;
+	margin: 0px 0px 0px 14px;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
@@ -1023,9 +1032,10 @@ a
 
 .moreinfobuttonfloat3
 {
+	font-size:12.5px;
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:200px;
+	width:180px;
 	height:27px;
 	margin: 0px 0px 0px 20px;
 	padding-top:8px;
@@ -1043,13 +1053,14 @@ a
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:200px;
-	height:27px;
-	margin: 0px 20px 0px auto;
+	width:170px;
+	height:20px;
+	margin: 0px 14px 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
 	float:right;
+	font-size:11.5px;
 }
 
 .moreinfobuttonsmartphone:hover
@@ -1059,11 +1070,12 @@ a
 
 .moreinfobuttonfloatsmall
 {
+	font-size:11.5px;
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:80px;
-	height:27px;
-	margin: 20px 70px 0px auto;
+	width:57px;
+	height:25px;
+	margin: 14px 50px 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
@@ -1076,14 +1088,13 @@ a
 }
 
 
-
 .supporteddevices
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:150px;
-	height:27px;
-	margin: 30px auto 0px auto;
+	width:107px;
+	height:20px;
+	margin: 21px auto 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
@@ -1093,9 +1104,9 @@ a
 {
 	background-color:#134A9A;
 	color:#FFFFFF;
-	width:150px;
-	height:27px;
-	margin: 15px auto 0px auto;
+	width:107px;
+	height:20px;
+	margin: 10px auto 0px auto;
 	padding-top:8px;
 	text-align:center;
 	border-radius:10px;
@@ -1135,104 +1146,106 @@ a
 
 .entertainmentvisionimg
 {
-	width:200px;
-	height:119px;
+	width:142px;
+	height:85px;
 	float:left;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .entertainmentnetfliximg
 {
-	width:200px;
-	height:124px;
+	width:142px;
+	height:89px;
 	float:right;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .entertainmentmusicimg
 {
-	width:200px;
-	height:136px;
+	width:142px;
+	height:97px;
 	float:left;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .entertainmentmusicimg2
 {
-	width:200px;
-	height:136px;
+	width:142px;
+	height:97px;
 	float:right;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .timvisionimg1
 {
-	width:250px;
-	height:530px;
+	width:178px;
+	height:379px;
 	float:left;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .timvisionimg2
 {
-	width:250px;
-	height:530px;
+	width:178px;
+	height:379px;
 	float:right;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .timmusicimg1
 {
-	width:250px;
-	height:428px;
+	width:178px;
+	height:306px;
 	float:left;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .timmusicimg2
 {
-	width:250px;
-	height:428px;
+	width:178px;
+	height:306px;
 	float:right;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .healthimg1
 {
 	float:left;
-	width:450px;
-	height:154px;
-	margin-right:10px;
-	margin-top:10px;
+	width:321px;
+	height:110px;
+	margin-right:7px;
+	margin-top:7px;
 }
 
 .health1text
 {
-	margin-top:45px;
+	font-size:12.5px;
+	margin-top:32px;
 	text-align:justify;
 }
 
 .healthimg2
 {
 	float:left;
-	width:450px;
-	height:262px;
-	margin-right:10px;
-	margin-top:10px;
+	width:321px;
+	height:187px;
+	margin-right:7px;
+	margin-top:7px;
 }
 
 .health2text
 {
-	margin-top:110px;
+	margin-top:57px;
 	text-align:center;
+	font-size:12.5px;
 }
 
 .mainassistancecontent
@@ -1241,52 +1254,57 @@ a
 	text-align:left;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	padding-left:15px;
-	padding-right:15px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
 	margin-top:10px;
 }
 
 .listfirst
 {
+	font-size:12.5px;
 	margin-top:10px;
 	text-decoration:none;
 }
 
 .list
 {
+	font-size:12.5px;
 	margin-top:5px;
 	text-decoration:none;
 }
 
 .listfirst2
 {
+	font-size:11.5px;
 	margin-top:10px;
 }
 
 .list2
 {
-	margin-top:5px;
+	font-size:11.5px;
+	margin-top:3px;
 }
 
 .supportconfigcontainer
 {
 	background-color:#f3faff;
-	width:215px;
+	width:153px;
 	float:left;
-	margin-right:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:290px;
+	padding-top:7px;
+	height:230px;
 	text-align:center;
+	font-size:12px;
 }
 
 .supportconfigtitle
 {
-	width:213px;
+	width:152px;
 	font-weight:bold;
-	font-size:18px;
+	font-size:15px;
 	text-align:center;
 	margin-top:10px;
 	color:#134A9A;
@@ -1294,32 +1312,32 @@ a
 
 .supportconfigtext
 {
-	width:205px;
+	width:146px;
 	text-align:center;
 	margin-top:15px;
-	margin-left:5px;
+	margin-left:3px;
 	color:#134A9A;
 }
 
 .sossmartphoneimg
 {
-	width:200px;
-	height:200px;
+	width:142px;
+	height:143px;
 	float:right;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:7px;
+	margin-right:7px;
 }
 
 .sosavailability
 {
 	background-color:#f3faff;
 	float:right;
-	width:200px;
-	margin-top:15px;
-	margin-right:10px;
+	width:142px;
+	margin-top:10px;
+	margin-right:7px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
+	padding-top:5px;
 	text-align:left;
 }
 
@@ -1327,32 +1345,32 @@ a
 {
 	padding:1%;
 	text-align:left;
-	font-size:14.5px;
-	margin-top:30px;
-	width:670px;
+	font-size:12.5px;
+	margin-top:21px;
+	width:478px;
 	float:left;
 }
 
 .smartphonepageimg
 {
-	width:250px;
-	height:328;
+	width:178px;
+	height:234px;
 	float:left;
-	margin-top:60px;
-	margin-right:25px;
+	margin-top:44px;
+	margin-right:17px;
 }
 
 .smartphonepagecontent
 {
 	padding:1%;
 	text-align:left;
-	font-size:14.5px;
-	margin-top:30px;
+	font-size:12.5px;
+	margin-top:22px;
 }
 
 .smartphonepagetitles
 {
-	font-size:14.5px;
+	font-size:12.5px;
 	text-decoration:underline;
 	font-weight: bold;
 	margin-bottom:5px;
@@ -1360,25 +1378,25 @@ a
 
 .smartphonepagetext
 {
-	margin-bottom:15px;
+	margin-bottom:10px;
 }
 
 .smartphonemaincontent
 {
-	width:350px;
+	width:250px;
 	float:left;
 }
 
 .onesteptext
 {
-	font-size:18.5px;
+	font-size:15.5px;
 	text-align:center;
 	margin-bottom:10px;
 }
 
 .onestepprice
 {
-	font-size:24.5px;
+	font-size:17.5px;
 	text-align:center;
 	font-weight:bold;
 }
@@ -1386,14 +1404,14 @@ a
 .smartphoneservices
 {
 	background-color:#f3faff;
-	width:230px;
+	width:164px;
 	float:right;
-	margin-right:10px;
-	margin-bottom:15px;
+	margin-right:7px;
+	margin-bottom:10px;
 	border-radius:5px;
 	border: 1px solid #BAC1C2;
-	padding-top:15px;
-	height:120px;
+	padding-top:10px;
+	height:105px;
 	text-align:center;	
 }
 
@@ -1409,7 +1427,7 @@ a
 .smartphonetablestextnolink
 {
 	text-align:left;
-	margin-left:20px;
+	margin-left:14px;
 	margin-top:5px;
 	color:#134A9A;
 }
@@ -1423,14 +1441,14 @@ a
 	line-height:26px;
 	bottom:0px;
 	z-index:999999;
-	font-size:12px;
+	font-size:10.5px;
 	position:fixed;
 	border-top:1px solid #afafaf;
 }
 
 #footer a
 {
-	padding-left:60px;
+	padding-left:42px;
 	text-decoration:none;
 	color:#717171;
 }
@@ -1438,7 +1456,7 @@ a
 #footertext
 {
 	float:left;
-	font-size:13px;
+	font-size:9px;
 	text-transform:uppercase;
 	color:#6e6e6e;
 }
@@ -1450,7 +1468,7 @@ a
 
 .footercontent
 {
-	width:792px;	
+	width:565px;	
 	margin:auto;
 }
 
@@ -1465,7 +1483,7 @@ a
 
 .lead
 { 
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: bold;
 }
 
@@ -1479,7 +1497,7 @@ a
 	position: absolute;
 	right: 1%;
 	top: 1%;
-	font-size: 30px;
+	font-size: 21px;
 	cursor: pointer;
 }
 
@@ -1543,7 +1561,7 @@ a
 
 .popuptitle
 {
-	font-size:23px;
+	font-size:19px;
 	font-weight:bold;
 	margin-bottom:20px;
 	text-align:center;
@@ -1551,14 +1569,14 @@ a
 
 .popupsubtitle
 {
-	font-size:20px;
+	font-size:18px;
 	margin-bottom:10px;
 	text-align:left;
 }
 
 .popupcontent
 {
-	font-size:16px;
+	font-size:14px;
 	margin-bottom:10px;
 	text-align:left;
 }
@@ -1571,7 +1589,7 @@ a
 /* STILI MENU */
 
 #wrapper {
-	width:951px;
+	width:679px;
     margin: 0px auto;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -1580,7 +1598,7 @@ a
 
 #menu
 {
-	height:60px;
+	height:43px;
 	margin:0px auto;
 	border:none;
 	padding: 0px 0px 0px 0px;
@@ -1597,15 +1615,15 @@ a
 
 #menu div 
 {
-	height: 60px;
-	padding-left: 25px;
-	padding-right: 25px;
+	height: 43px;
+	padding-left: 13px;
+	padding-right: 13px;
 	color: #FFFFFF;
-	font: bold 15px/25px Arial, Helvetica;
+	font: bold 12px/22px Arial, Helvetica;
 	text-transform:uppercase;
 	text-decoration:none;
 	text-shadow: 0px 1px 0px #000;
-	line-height:60px;
+	line-height:43px;
 }
 
 #menu li:hover > div
@@ -1634,13 +1652,13 @@ a
 
 #menu ul
 {
-	width:155px;
+	width:130px;
     list-style: none;
     margin: 0px;
     padding: 0px;    
     display: none;
     position: absolute;
-    top: 55px;
+    top: 38px;
     z-index: 99999;    
     background-color:#134A9A;
 	text-align:left;
@@ -1670,9 +1688,9 @@ a
 
 #menu ul div
 {    
-    padding: 10px;
+    padding: 7px;
 	height: 10px;
-	width: 133px;
+	width: 112px;
 	height: auto;
     line-height: 1px;
     display: block;
@@ -1693,7 +1711,7 @@ a
 
 #menu ul div:hover
 {
-	width:133px;
+	width:112px;
     background-color:#3ECEFF;
 	margin-left:-1px;
 	border-right:1px solid #FFFFFF;
@@ -1711,7 +1729,7 @@ a
 {
     content: '';
     position: absolute;
-    left: 70px;
+    left: 60px;
     top: -8px;
     width: 0px;
     height: 0px;
